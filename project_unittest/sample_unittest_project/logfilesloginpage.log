@@ -1,0 +1,85 @@
+2020-02-03 10:13:02,023:1580704982.023199:INFO:loginTest.py: in login page test method
+2020-02-03 10:13:03,203:1580704983.203143:INFO:loginTest.py: in tear down class
+2020-02-03 10:16:18,560:1580705178.560251:INFO:loginTest.py: in login page test method
+2020-02-03 10:16:24,340:1580705184.340215:INFO:loginTest.py: in tear down class
+2020-02-03 10:38:31,648:1580706511.648669:INFO:loginTest.py: in login page test method
+2020-02-03 10:38:36,104:1580706516.104337:INFO:loginTest.py: in tear down class
+2020-02-03 10:38:38,931:1580706518.931030:INFO:loginTest.py: app closed
+2020-02-03 10:44:01,834:1580706841.834484:INFO:loginTest.py: in login page test method
+2020-02-03 10:44:17,595:1580706857.595965:INFO:loginTest.py: in tear down class
+2020-02-03 10:44:19,974:1580706859.974228:INFO:loginTest.py: app closed
+2020-02-03 10:46:24,555:1580706984.555319:INFO:loginTest.py: in login page test method
+2020-02-03 10:46:39,625:1580706999.625117:INFO:loginTest.py: in tear down class
+2020-02-03 10:46:41,941:1580707001.941011:INFO:loginTest.py: app closed
+2020-02-03 10:51:19,820:1580707279.820920:INFO:loginTest.py: in login page test method
+2020-02-03 10:51:51,178:1580707311.178086:INFO:loginTest.py: in tear down class
+2020-02-03 10:51:53,423:1580707313.423564:INFO:loginTest.py: app closed
+2020-02-03 10:52:29,150:1580707349.150076:INFO:loginTest.py: in login page test method
+2020-02-03 10:52:45,446:1580707365.446972:INFO:loginTest.py: in tear down class
+2020-02-03 10:52:47,780:1580707367.780348:INFO:loginTest.py: app closed
+2020-02-03 17:39:27,232:1580731767.232769:INFO:loginTest.py: in login page test method
+2020-02-03 17:39:42,581:1580731782.581701:INFO:loginTest.py: in tear down class
+2020-02-03 17:39:45,151:1580731785.151160:INFO:loginTest.py: app closed
+2020-02-03 17:40:28,930:1580731828.930892:INFO:loginTest.py: in login page test method
+2020-02-03 17:40:57,085:1580731857.085273:INFO:loginTest.py: in tear down class
+2020-02-03 17:40:59,412:1580731859.412315:INFO:loginTest.py: app closed
+2020-02-04 09:43:00,287:1580789580.287482:INFO:loginTest.py: in login page test method
+2020-02-04 09:45:42,859:1580789742.859742:INFO:loginTest.py: in tear down class
+2020-02-04 09:53:34,389:1580790214.389507:INFO:loginTest.py: in login page test method
+2020-02-04 09:53:51,415:1580790231.415096:INFO:loginTest.py: in tear down class
+2020-02-04 09:53:53,659:1580790233.659740:INFO:loginTest.py: app closed
+2020-02-04 14:44:08,264:1580807648.264153:INFO:loginTest.py: in login page test method
+2020-02-04 14:44:27,369:1580807667.369506:INFO:loginTest.py: in tear down class
+2020-02-04 15:14:13,896:1580809453.896950:INFO:loginTest.py: in login page test method
+2020-02-04 15:14:26,731:1580809466.731368:INFO:loginTest.py: in tear down class
+2020-02-04 15:14:57,919:1580809497.919807:INFO:loginTest.py: in login page test method
+2020-02-04 15:15:13,712:1580809513.712384:INFO:loginTest.py: in tear down class
+2020-02-04 15:15:16,145:1580809516.145815:INFO:loginTest.py: app closed
+2020-02-04 15:19:40,184:1580809780.184806:INFO:loginTest.py: in login page test method
+2020-02-04 15:20:11,010:1580809811.010841:INFO:loginTest.py: in tear down class
+2020-02-04 15:20:13,210:1580809813.210506:INFO:loginTest.py: app closed
+2020-02-04 16:57:40,090:1580815660.090218:INFO:loginTest.py: in login page test method
+2020-02-04 16:57:52,812:1580815672.812489:INFO:loginTest.py: in tear down class
+2020-02-04 16:57:55,254:1580815675.254038:INFO:loginTest.py: app closed
+2020-02-04 17:01:08,274:1580815868.274099:INFO:loginTest.py: in login page test method
+2020-02-04 17:02:01,167:1580815921.167368:INFO:loginTest.py: in tear down class
+2020-02-04 17:09:56,456:1580816396.456283:INFO:loginTest.py: in login page test method
+2020-02-04 17:10:05,798:1580816405.798348:INFO:loginTest.py: in tear down class
+2020-02-04 17:18:35,861:1580816915.861692:INFO:loginTest.py: in login page test method
+2020-02-04 17:18:35,870:1580816915.870885:INFO:loginTest.py: in tear down class
+2020-02-04 17:18:40,101:1580816920.101850:INFO:loginTest.py: app closed
+2020-02-04 17:21:21,445:1580817081.445698:INFO:loginTest.py: in login page test method
+2020-02-04 17:21:22,736:1580817082.736669:INFO:loginTest.py: in tear down class
+2020-02-04 17:21:26,999:1580817086.999817:INFO:loginTest.py: app closed
+2020-02-04 17:29:26,318:1580817566.318627:INFO:loginTest.py: in login page test method
+2020-02-04 17:29:28,051:1580817568.051622:INFO:loginTest.py: in tear down class
+2020-02-04 17:29:53,687:1580817593.687667:INFO:loginTest.py: in login page test method
+2020-02-04 17:30:01,798:1580817601.798692:INFO:loginTest.py: in tear down class
+2020-02-04 17:30:53,033:1580817653.033612:INFO:loginTest.py: in login page test method
+2020-02-04 17:31:02,338:1580817662.338703:INFO:loginTest.py: in tear down class
+2020-02-04 17:31:20,811:1580817680.811303:INFO:loginTest.py: in login page test method
+2020-02-04 17:31:22,030:1580817682.030428:INFO:loginTest.py: in tear down class
+2020-02-04 17:31:26,519:1580817686.519259:INFO:loginTest.py: app closed
+2020-02-04 17:34:27,271:1580817867.271346:INFO:loginTest.py: in login page test method
+2020-02-04 17:34:28,516:1580817868.516690:INFO:loginTest.py: in tear down class
+2020-02-04 17:34:33,048:1580817873.048577:INFO:loginTest.py: app closed
+2020-02-04 17:38:02,253:1580818082.253759:INFO:loginTest.py: in login page test method
+2020-02-04 17:38:09,603:1580818089.603737:INFO:loginTest.py: in tear down class
+2020-02-04 17:38:38,771:1580818118.771786:INFO:loginTest.py: in login page test method
+2020-02-04 17:38:40,330:1580818120.330704:INFO:loginTest.py: in tear down class
+2020-02-04 17:38:44,773:1580818124.773210:INFO:loginTest.py: app closed
+2020-02-04 17:52:53,501:1580818973.501520:INFO:loginTest.py: in login page test method
+2020-02-04 17:52:55,084:1580818975.084489:INFO:loginTest.py: in tear down class
+2020-02-04 17:52:59,304:1580818979.304975:INFO:loginTest.py: app closed
+2020-02-04 17:57:41,290:1580819261.290897:INFO:loginTest.py: in login page test method
+2020-02-04 17:57:43,216:1580819263.216275:INFO:loginTest.py: in tear down class
+2020-02-04 17:57:47,458:1580819267.458907:INFO:loginTest.py: app closed
+2020-02-06 18:05:02,556:1580992502.556303:INFO:loginTest.py: in login page test method
+2020-02-06 18:05:04,421:1580992504.421768:INFO:loginTest.py: in tear down class
+2020-02-06 18:05:08,722:1580992508.722860:INFO:loginTest.py: app closed
+2020-02-06 18:06:59,549:1580992619.549196:INFO:loginTest.py: in login page test method
+2020-02-06 18:07:01,296:1580992621.296980:INFO:loginTest.py: in tear down class
+2020-02-06 18:07:05,562:1580992625.562331:INFO:loginTest.py: app closed
+2020-02-06 18:12:22,677:1580992942.677675:INFO:loginTest.py: in login page test method
+2020-02-06 18:12:28,538:1580992948.538875:INFO:loginTest.py: in tear down class
+2020-02-06 18:12:33,019:1580992953.019943:INFO:loginTest.py: app closed
